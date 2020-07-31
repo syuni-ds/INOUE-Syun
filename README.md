@@ -1,3 +1,1 @@
-<div style="text-align:center">
-    <img src="./assets/tenor.gif">
-</div>
+<img src="https://raw.githubusercontent.com/INOUE-Syun/INOUE-Syun/master/assets/tenor.gif">
